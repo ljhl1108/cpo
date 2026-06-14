@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-06-13
+마지막 업데이트: 2026-06-14
 
 ---
 
@@ -62,7 +62,7 @@
 | ZDNet Korea | https://zdnet.co.kr | 2026-06-01 | - |
 | 디지털데일리 | https://www.ddaily.co.kr | 2026-06-01 | - |
 | 전자부품연구원 KEIT | https://www.keit.re.kr | 2026-06-01 | - |
-| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-06-13 |
+| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-06-14 |
 
 ---
 
