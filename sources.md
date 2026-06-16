@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-06-15
+마지막 업데이트: 2026-06-16
 
 ---
 
@@ -22,9 +22,9 @@
 |------|-----|--------|------------|
 | EETimes | https://www.eetimes.com | 2026-06-01 | - |
 | IEEE Spectrum | https://spectrum.ieee.org | 2026-06-01 | - |
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-15 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-15 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-15 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-16 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-16 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-16 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-06-15 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-09 |
 
@@ -51,7 +51,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | NVIDIA Blog | https://blogs.nvidia.com | 2026-06-10 | 2026-06-11 |
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-06-15 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-06-16 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-06-15 |
 
 ## 한국 미디어
@@ -70,11 +70,14 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-06-15 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-06-16 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-06-08 | 기업 IR·실적 발표 실시간 수집 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-06-08 | 2026-06-08 | AI 인프라 심층 분석 블로그 |
 | Photoncap.net | https://photoncap.net | 2026-06-09 | 2026-06-09 | CPO·광통신 전문 분석 뉴스레터 |
-| TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-06-11 | 반도체·광통신 전문 서브스택, OFC 2026 아웃룩 및 1.6T 분석 |
+| TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-06-16 | 반도체·광통신 전문 서브스택, OFC 2026 아웃룩 및 1.6T 분석 |
 | ADTEK | https://adtek-fiber.com | 2026-06-09 | 2026-06-11 | CPO·AI 데이터센터 광인터커넥트 전문 콘텐츠 |
 | GlobalSemiResearch | https://globalsemiresearch.substack.com | 2026-06-11 | 2026-06-13 | SemiAnalysis CPO 지연 주장 반론 전문 분석, 기술·수율 근거 기반 반박 |
 | RCR Wireless | https://www.rcrwireless.com | 2026-06-13 | 2026-06-13 | AI 광통신 시장 성장·하이퍼스케일러 투자 가속 분석 보도 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-06-16 | 루멘텀 Q3 FY2026 +90% 실적 분석, COMPUTEX 2026 CPO 분야 심층 보도 |
+| 247wallst | https://247wallst.com | 2026-06-16 | 2026-06-16 | 광통신 AI 투자 주가 분석 전문, 광통신 섹터 동향 집중 보도 |
+
