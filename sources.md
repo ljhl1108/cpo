@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-06-18
+마지막 업데이트: 2026-06-19
 
 ---
 
@@ -22,8 +22,8 @@
 |------|-----|--------|------------|
 | EETimes | https://www.eetimes.com | 2026-06-01 | - |
 | IEEE Spectrum | https://spectrum.ieee.org | 2026-06-01 | - |
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-17 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-17 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-19 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-19 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-16 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-06-15 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-09 |
@@ -32,7 +32,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-06-17 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-06-19 |
 | Fierce Network | https://www.fiercenetwork.com | 2026-06-01 | - |
 | The Register | https://www.theregister.com | 2026-06-01 | - |
 | Next Platform | https://www.nextplatform.com | 2026-06-01 | - |
@@ -52,7 +52,7 @@
 |------|-----|--------|------------|
 | NVIDIA Blog | https://blogs.nvidia.com | 2026-06-10 | 2026-06-11 |
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-06-17 |
-| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-06-15 |
+| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-06-19 |
 
 ## 한국 미디어
 
@@ -67,11 +67,11 @@
 ---
 
 ## 신규 발굴 출처 (루틴 자동 추가)
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-06-18 | 한국 CPO·반도체 전문 영문 매체, NVIDIA 주도 CPO 발주 한국 소재·장비 기업 동향 보도 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-06-19 | 한국 CPO·반도체 전문 영문 매체, NVIDIA 주도 CPO 발주 한국 소재·장비 기업 동향 보도 |
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-06-17 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-06-18 | 기업 IR·실적 발표 실시간 수집 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-06-19 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-06-19 | 기업 IR·실적 발표 실시간 수집 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-06-08 | 2026-06-08 | AI 인프라 심층 분석 블로그 |
 | Photoncap.net | https://photoncap.net | 2026-06-09 | 2026-06-09 | CPO·광통신 전문 분석 뉴스레터 |
 | TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-06-16 | 반도체·광통신 전문 서브스택, OFC 2026 아웃룩 및 1.6T 분석 |
