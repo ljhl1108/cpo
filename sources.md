@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-06-22
+마지막 업데이트: 2026-06-23
 
 ---
 
@@ -12,19 +12,14 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-06-22 |
-| PhotonicsMedia | https://www.photonics.com | 2026-06-01 | - |
-| Lightwave Online | https://www.lightwaveonline.com | 2026-06-01 | - |
-| Optics.org | https://optics.org | 2026-06-01 | - |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| EETimes | https://www.eetimes.com | 2026-06-01 | - |
-| IEEE Spectrum | https://spectrum.ieee.org | 2026-06-01 | - |
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-22 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-22 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-21 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-23 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-06-22 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-09 |
 
@@ -33,17 +28,11 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-06-22 |
-| Fierce Network | https://www.fiercenetwork.com | 2026-06-01 | - |
-| The Register | https://www.theregister.com | 2026-06-01 | - |
-| Next Platform | https://www.nextplatform.com | 2026-06-01 | - |
 
 ## 일반 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Reuters Technology | https://www.reuters.com/technology | 2026-06-01 | - |
-| Bloomberg Technology | https://www.bloomberg.com/technology | 2026-06-01 | - |
-| Ars Technica | https://arstechnica.com | 2026-06-01 | - |
 | The Next Web | https://thenextweb.com | 2026-06-10 | 2026-06-07 |
 
 ## 기업 공식 채널
@@ -51,7 +40,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | NVIDIA Blog | https://blogs.nvidia.com | 2026-06-10 | 2026-06-11 |
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-06-22 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-06-23 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-06-21 |
 
 ## 한국 미디어
@@ -59,9 +48,6 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | 전자신문 | https://www.etnews.com | 2026-06-01 | 2026-06-22 |
-| ZDNet Korea | https://zdnet.co.kr | 2026-06-01 | - |
-| 디지털데일리 | https://www.ddaily.co.kr | 2026-06-01 | - |
-| 전자부품연구원 KEIT | https://www.keit.re.kr | 2026-06-01 | - |
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-06-21 |
 
 ---
