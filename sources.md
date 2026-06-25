@@ -21,13 +21,13 @@
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-25 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-25 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-06-22 |
-| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-09 |
+| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-25 |
 
 ## 데이터센터 / 네트워크
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-06-22 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-06-25 |
 
 ## 일반 기술 미디어
 
