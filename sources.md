@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-06-25
+마지막 업데이트: 2026-06-26
 
 ---
 
@@ -18,7 +18,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-06-22 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-25 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-06-26 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-06-25 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-06-22 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-25 |
@@ -53,7 +53,7 @@
 ---
 
 ## 신규 발굴 출처 (루틴 자동 추가)
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-06-25 | 한국 CPO·반도체 전문 영문 매체, NVIDIA 주도 CPO 발주 한국 소재·장비 기업 동향 보도 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-06-26 | 한국 CPO·반도체 전문 영문 매체, NVIDIA 주도 CPO 발주 한국 소재·장비 기업 동향 보도 |
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-06-22 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
@@ -68,4 +68,6 @@
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-06-25 | 광통신 AI 투자 주가 분석 전문, 광통신 섹터 동향 집중 보도 |
 | KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-06-25 | 한국경제 영문 미디어, LG이노텍 AI 기판 전략·CPO 관련 한국 기업 동향 집중 보도 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-06-22 | 광통신 인터커넥트 기술 접근법 전문 보도, 6월 2026 CPO/NPO/LPO 비교 분석 기사 확인 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-06-26 | NVIDIA CPO 스위치·Marvell Celestial AI 등 AI 광통신 주요 이슈 심층 보도 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-06-26 | 광트랜시버 시장 성장·AI 광통신 기업 IR 보도 확인 |
 
