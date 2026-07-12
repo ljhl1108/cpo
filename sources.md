@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-07-11
+마지막 업데이트: 2026-07-12
 
 ---
 
@@ -11,16 +11,16 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-07-06 |
+| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-07-12 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-11 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-11 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-11 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-10 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-12 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-12 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-12 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-06-29 |
 
 ## 데이터센터 / 네트워크
@@ -63,7 +63,7 @@
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-07-05 | 광통신 AI 투자 주가 분석 전문, 광통신 섹터 동향 집중 보도 |
 | KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-07-10 | 한국경제 영문 미디어, LG이노텍 AI 기판 전략·CPO 관련 한국 기업 동향 집중 보도 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-07 | 광통신 인터커넥트 기술 접근법 전문 보도, 6월 2026 CPO/NPO/LPO 비교 분석 기사 확인 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-11 | NVIDIA CPO 스위치·Marvell Celestial AI 등 AI 광통신 주요 이슈 심층 보도 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-12 | NVIDIA CPO 스위치·Marvell Celestial AI 등 AI 광통신 주요 이슈 심층 보도 |
 | GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-07-10 | 광트랜시버 시장 성장·AI 광통신 기업 IR 보도 확인 |
 | TechXplore | https://techxplore.com | 2026-06-27 | 2026-06-30 | CUHK 전광 신호처리기 등 AI 데이터센터 광통신 연구 돌파구 전문 보도 |
 | optics.org | https://optics.org | 2026-06-28 | 2026-07-05 | CPO·광통신 업계 신규 제품·협업 단독 보도, GlobalFoundries-Corning CPO 협업 등 다수 광통신 뉴스 커버 |
