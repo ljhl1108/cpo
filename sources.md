@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-07-22
+마지막 업데이트: 2026-07-23
 
 ---
 
@@ -38,7 +38,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-07-22 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-07-23 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-07-15 |
 
 ## 한국 미디어
@@ -54,7 +54,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-13 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-07-22 | 기업 IR·실적 발표 실시간 수집 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-07-23 | 기업 IR·실적 발표 실시간 수집 |
 | TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-07-06 | 반도체·광통신 전문 서브스택, OFC 2026 아웃룩 및 1.6T 분석 |
 | ADTEK | https://adtek-fiber.com | 2026-06-09 | 2026-07-06 | CPO·AI 데이터센터 광인터커넥트 전문 콘텐츠 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-07-22 | 루멘텀 Q3 FY2026 +90% 실적 분석, COMPUTEX 2026 CPO 분야 심층 보도 |
@@ -67,7 +67,7 @@
 | EE Times | https://www.eetimes.com | 2026-07-05 | 2026-07-06 | XPO vs CPO 경쟁 심층 분석, OFC 2026 AI 광통신 기술 동향 전문 보도 |
 | EDN | https://www.edn.com | 2026-07-06 | 2026-07-13 | CPO 기술 현황 심층 분석 ('Where co-packaged optics stands in 2026') 및 AI 광통신 기술 동향 정기 보도 |
 | TNGlobal | https://technode.global | 2026-07-07 | 2026-07-22 | 한국 기업 AI·반도체 동향 영문 속보, LG이노텍 베트남 CPO 기판 공장 착공 등 단독 보도 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-18 | TSMC CoWoS·CPO 신호 분석(7/11), AI 데이터센터 반도체·광통신 동향 정기 보도 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-23 | TSMC CoWoS·CPO 신호 분석(7/11), AI 데이터센터 반도체·광통신 동향 정기 보도 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-07-22 | UMC·SILITH 실리콘 포토닉스 양산(7/14) 확인, 한국 CPO·광통신 업계 뉴스 정기 보도 |
 | The Motley Fool | https://www.fool.com | 2026-07-19 | 2026-07-21 | 실리콘 포토닉스 AI 투자 심층 분석 기사 정기 발행, Coherent·Lumentum CPO 분야 분석 기사 확인(7/19) |
-
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-23 | AMD Helios·OCI 광인터커넥트 심층 분석, AI 데이터센터 하드웨어 전문 보도 다수 확인 |
