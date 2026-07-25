@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-07-24
+마지막 업데이트: 2026-07-25
 
 ---
 
@@ -11,28 +11,44 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-07-24 |
+| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-07-25 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-13 |
+| TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-07-06 |
+| ADTEK | https://adtek-fiber.com | 2026-06-09 | 2026-07-06 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-07-24 |
+| optics.org | https://optics.org | 2026-06-28 | 2026-07-05 |
+| EDN | https://www.edn.com | 2026-07-06 | 2026-07-13 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-07-22 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-24 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-24 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-24 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-25 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-25 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-24 |
-| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-07-24 |
+| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-07-25 |
+| Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
+| EE Times | https://www.eetimes.com | 2026-07-05 | 2026-07-06 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-25 |
+| SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 |
 
 ## 데이터센터 / 네트워크
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-07-20 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-07-25 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-25 |
 
 ## 일반 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-07-24 |
+| 247wallst | https://247wallst.com | 2026-06-16 | 2026-07-20 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-23 |
+| The Motley Fool | https://www.fool.com | 2026-07-19 | 2026-07-21 |
 
 ## 기업 공식 채널
 
@@ -40,36 +56,20 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-07-23 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-07-15 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-07-25 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-07-24 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-24 |
+| KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-07-10 |
+| TNGlobal | https://technode.global | 2026-07-07 | 2026-07-24 |
 
 ---
 
 ## 신규 발굴 출처 (루틴 자동 추가)
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-24 | 한국 CPO·반도체 전문 영문 매체, NVIDIA 주도 CPO 발주 한국 소재·장비 기업 동향 보도 |
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-13 | Sivers-GlobalFoundries 파트너십 단독 전문 보도 |
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-07-24 | 기업 IR·실적 발표 실시간 수집 |
-| TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-07-06 | 반도체·광통신 전문 서브스택, OFC 2026 아웃룩 및 1.6T 분석 |
-| ADTEK | https://adtek-fiber.com | 2026-06-09 | 2026-07-06 | CPO·AI 데이터센터 광인터커넥트 전문 콘텐츠 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-07-24 | 루멘텀 Q3 FY2026 +90% 실적 분석, COMPUTEX 2026 CPO 분야 심층 보도 |
-| 247wallst | https://247wallst.com | 2026-06-16 | 2026-07-20 | 광통신 AI 투자 주가 분석 전문, 광통신 섹터 동향 집중 보도 |
-| KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-07-10 | 한국경제 영문 미디어, LG이노텍 AI 기판 전략·CPO 관련 한국 기업 동향 집중 보도 |
-| Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 | 광통신 인터커넥트 기술 접근법 전문 보도, 6월 2026 CPO/NPO/LPO 비교 분석 기사 확인 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-24 | NVIDIA CPO 스위치·Marvell Celestial AI 등 AI 광통신 주요 이슈 심층 보도 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-07-22 | 광트랜시버 시장 성장·AI 광통신 기업 IR 보도 확인 |
-| optics.org | https://optics.org | 2026-06-28 | 2026-07-05 | CPO·광통신 업계 신규 제품·협업 단독 보도, GlobalFoundries-Corning CPO 협업 등 다수 광통신 뉴스 커버 |
-| EE Times | https://www.eetimes.com | 2026-07-05 | 2026-07-06 | XPO vs CPO 경쟁 심층 분석, OFC 2026 AI 광통신 기술 동향 전문 보도 |
-| EDN | https://www.edn.com | 2026-07-06 | 2026-07-13 | CPO 기술 현황 심층 분석 ('Where co-packaged optics stands in 2026') 및 AI 광통신 기술 동향 정기 보도 |
-| TNGlobal | https://technode.global | 2026-07-07 | 2026-07-24 | 한국 기업 AI·반도체 동향 영문 속보, LG이노텍 베트남 CPO 기판 공장 착공 등 단독 보도 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-23 | TSMC CoWoS·CPO 신호 분석(7/11), AI 데이터센터 반도체·광통신 동향 정기 보도 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-07-22 | UMC·SILITH 실리콘 포토닉스 양산(7/14) 확인, 한국 CPO·광통신 업계 뉴스 정기 보도 |
-| The Motley Fool | https://www.fool.com | 2026-07-19 | 2026-07-21 | 실리콘 포토닉스 AI 투자 심층 분석 기사 정기 발행, Coherent·Lumentum CPO 분야 분석 기사 확인(7/19) |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-24 | AMD Helios·OCI 광인터커넥트 심층 분석, AI 데이터센터 하드웨어 전문 보도 다수 확인 |
-| SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 | OFC 2026 CPO/OCI/OCS/실리콘포토닉스 심층 분석, AI 데이터센터 광통신 기술 포럼 |
-
+| Taipei Times | https://www.taipeitimes.com | 2026-07-25 | 2026-07-25 | 대만 CPO 공급망 기업(라르간 등) 정기 보도, 2026-07-25 라르간 파이버어레이 파일럿라인 일정 보도 |
