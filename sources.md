@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-07-26
+마지막 업데이트: 2026-07-27
 
 ---
 
@@ -16,7 +16,6 @@
 | TSPA Semiconductor Substack | https://tspasemiconductor.substack.com | 2026-06-09 | 2026-07-06 |
 | ADTEK | https://adtek-fiber.com | 2026-06-09 | 2026-07-06 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-07-24 |
-| optics.org | https://optics.org | 2026-06-28 | 2026-07-05 |
 | EDN | https://www.edn.com | 2026-07-06 | 2026-07-13 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-07-22 |
 
@@ -24,14 +23,14 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-24 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-26 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-26 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-26 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-27 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-27 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-27 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-27 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-07-25 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
 | EE Times | https://www.eetimes.com | 2026-07-05 | 2026-07-06 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-26 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-27 |
 | SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 |
 
 ## 데이터센터 / 네트워크
@@ -39,7 +38,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-07-26 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-26 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-27 |
 
 ## 일반 기술 미디어
 
@@ -47,7 +46,7 @@
 |------|-----|--------|------------|
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-07-24 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-07-20 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-26 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-07-27 |
 | The Motley Fool | https://www.fool.com | 2026-07-19 | 2026-07-21 |
 
 ## 기업 공식 채널
@@ -63,7 +62,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-07-24 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-26 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-27 |
 | KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-07-10 |
 | TNGlobal | https://technode.global | 2026-07-07 | 2026-07-26 |
 
