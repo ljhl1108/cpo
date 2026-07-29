@@ -69,4 +69,4 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
 | Taipei Times | https://www.taipeitimes.com | 2026-07-25 | 2026-07-28 | 대만 CPO 공급망 기업(라르간 등) 정기 보도, 2026-07-25 라르간 파이버어레이 파일럿라인 일정 보도 |
-| nextplatform | https://www.nextplatform.com | 2026-07-29 | 2026-07-28 | 개인적으로 추가함 --> 분석 필요 |
+| nextplatform | https://www.nextplatform.com | 2026-07-29 | 없음 | 개인적으로 추가함 --> 분석 필요 |
