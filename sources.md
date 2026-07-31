@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-07-30
+마지막 업데이트: 2026-07-31
 
 ---
 
@@ -21,20 +21,20 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-30 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-07-31 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-07-30 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-07-30 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-30 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-07-31 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-07-25 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-29 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-31 |
 | SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 |
 
 ## 데이터센터 / 네트워크
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-07-30 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-07-31 |
 | SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-07-30 |
 
 ## 일반 기술 미디어
@@ -52,14 +52,14 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-07-23 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-07-15 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-07-30 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-07-31 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-07-30 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-30 |
+| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-07-31 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-07-31 |
 | KED Global | https://www.kedglobal.com | 2026-06-20 | 2026-07-10 |
 | TNGlobal | https://technode.global | 2026-07-07 | 2026-07-28 |
 
