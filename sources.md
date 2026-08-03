@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-02
+마지막 업데이트: 2026-08-03
 
 ---
 
@@ -54,7 +54,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-02 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-07-15 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-02 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-03 |
 
 ## 한국 미디어
 
