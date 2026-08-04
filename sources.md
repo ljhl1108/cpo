@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-03
+마지막 업데이트: 2026-08-04
 
 ---
 
@@ -14,17 +14,16 @@
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-02 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-29 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-07-24 |
-| EDN | https://www.edn.com | 2026-07-06 | 2026-07-13 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-01 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-04 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-02 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-02 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-02 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-02 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-04 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-04 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-04 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-07-25 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-31 |
@@ -54,14 +53,14 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-02 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-07-15 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-03 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-04 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-02 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-02 |
+| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-04 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-04 |
 | TNGlobal | https://technode.global | 2026-07-07 | 2026-07-28 |
 
 ---
@@ -69,3 +68,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
+| EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-04 | TrendForce CPO 양산 기사 커버리지를 통해 발굴된 반도체/광통신 전문 미디어 |
+
