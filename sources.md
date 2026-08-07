@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-06
+마지막 업데이트: 2026-08-07
 
 ---
 
@@ -13,20 +13,20 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-02 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-29 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-05 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-04 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-07 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-07 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-02 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-04 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-04 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-07 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-07 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-07 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-05 |
-| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-06 |
+| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-07 |
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-07-31 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-07 |
 | SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 |
 
 ## 데이터센터 / 네트워크
@@ -41,9 +41,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-05 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-07 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-07-30 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-06 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-07 |
 | The Motley Fool | https://www.fool.com | 2026-07-19 | 2026-07-21 |
 | Taipei Times | https://www.taipeitimes.com | 2026-07-25 | 2026-07-28 |
 
@@ -59,8 +59,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-06 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-06 |
+| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-07 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-07 |
 | TNGlobal | https://technode.global | 2026-07-07 | 2026-07-28 |
 
 ---
@@ -68,5 +68,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-04 | TrendForce CPO 양산 기사 커버리지를 통해 발굴된 반도체/광통신 전문 미디어 |
-| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-06 | FCC 중국 광 트랜시버 수입 금지 보도로 발굴된 광통신 시장 전문 리서치·뉴스 미디어 |
+| EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-07 | TrendForce CPO 양산 기사 커버리지를 통해 발굴된 반도체/광통신 전문 미디어 |
+| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-07 | FCC 중국 광 트랜시버 수입 금지 보도로 발굴된 광통신 시장 전문 리서치·뉴스 미디어 |
