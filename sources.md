@@ -15,6 +15,7 @@
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-29 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-07 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-07 |
+| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-07 |
 
 ## 반도체 / 기술 미디어
 
@@ -28,6 +29,7 @@
 | Electronics Weekly | https://www.electronicsweekly.com | 2026-06-22 | 2026-07-24 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-07 |
 | SemiWiki | https://semiwiki.com | 2026-07-24 | 2026-07-24 |
+| EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-07 |
 
 ## 데이터센터 / 네트워크
 
@@ -68,5 +70,3 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-07 | TrendForce CPO 양산 기사 커버리지를 통해 발굴된 반도체/광통신 전문 미디어 |
-| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-07 | FCC 중국 광 트랜시버 수입 금지 보도로 발굴된 광통신 시장 전문 리서치·뉴스 미디어 |
