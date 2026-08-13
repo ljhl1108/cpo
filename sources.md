@@ -12,7 +12,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-02 |
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-07-29 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-13 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-11 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-11 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-11 |
