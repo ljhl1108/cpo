@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-15
+마지막 업데이트: 2026-08-16
 
 ---
 
@@ -12,21 +12,21 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-02 |
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-15 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-11 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-16 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-16 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-11 |
-| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-11 |
+| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-16 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-09 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-11 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-15 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-15 |
-| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-11 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-08 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-16 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-16 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-16 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-16 |
+| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-16 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-16 |
 | EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-10 |
 | EE Times | https://www.eetimes.com | 2026-08-08 | 2026-08-08 |
 
@@ -35,7 +35,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-08-08 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-08-09 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-08-16 |
 | nextplatform | https://www.nextplatform.com | 2026-07-29 | 2026-08-11 |
 
 ## 일반 기술 미디어
@@ -43,8 +43,8 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-15 |
-| 247wallst | https://247wallst.com | 2026-06-16 | 2026-08-15 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-15 |
+| 247wallst | https://247wallst.com | 2026-06-16 | 2026-08-16 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-16 |
 | Taipei Times | https://www.taipeitimes.com | 2026-07-25 | 2026-07-28 |
 
 ## 기업 공식 채널
