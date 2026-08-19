@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-18
+마지막 업데이트: 2026-08-19
 
 ---
 
@@ -13,7 +13,7 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-17 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-16 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-18 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-19 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-11 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-18 |
 
@@ -23,7 +23,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-17 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-17 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-18 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-19 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-18 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-16 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-17 |
@@ -42,18 +42,17 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-18 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-19 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-08-16 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-18 |
-| Taipei Times | https://www.taipeitimes.com | 2026-07-25 | 2026-07-28 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-19 |
 
 ## 기업 공식 채널
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-18 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-19 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-18 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-15 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-19 |
 
 ## 한국 미디어
 
@@ -61,7 +60,6 @@
 |------|-----|--------|------------|
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-11 |
 | The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-17 |
-| TNGlobal | https://technode.global | 2026-07-07 | 2026-07-28 |
 
 ---
 
