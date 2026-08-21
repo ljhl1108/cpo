@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-20
+마지막 업데이트: 2026-08-21
 
 ---
 
@@ -23,7 +23,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-17 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-20 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-20 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-21 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-18 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-16 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-17 |
@@ -35,7 +35,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-08-20 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-08-20 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-08-21 |
 | nextplatform | https://www.nextplatform.com | 2026-07-29 | 2026-08-11 |
 
 ## 일반 기술 미디어
@@ -58,8 +58,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-11 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-17 |
+| Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-08-21 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-08-21 |
 
 ---
 
