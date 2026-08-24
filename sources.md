@@ -11,9 +11,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-22 |
+| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-24 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-24 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-22 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-24 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-11 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-20 |
 
@@ -51,7 +51,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-19 |
-| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-22 |
+| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-24 |
 | GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-24 |
 
 ## 한국 미디어
