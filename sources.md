@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-25
+마지막 업데이트: 2026-08-26
 
 ---
 
@@ -13,20 +13,20 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-24 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-24 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-24 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-26 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-11 |
-| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-20 |
+| Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-26 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-25 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-25 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-25 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-08-26 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-08-26 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-08-26 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-08-18 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-08-16 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-22 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-08-26 |
 | EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-08-10 |
 | EE Times | https://www.eetimes.com | 2026-08-08 | 2026-08-08 |
 
@@ -44,7 +44,7 @@
 |------|-----|--------|------------|
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-08-19 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-08-16 |
-| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-25 |
+| TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-08-26 |
 
 ## 기업 공식 채널
 
@@ -52,7 +52,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-19 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-24 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-25 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-26 |
 
 ## 한국 미디어
 
