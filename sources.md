@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-08-30
+마지막 업데이트: 2026-08-31
 
 ---
 
@@ -13,7 +13,7 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-08-29 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-24 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-29 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-08-31 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-08-29 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-08-26 |
 
@@ -51,7 +51,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-08-29 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-29 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-30 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-08-31 |
 
 ## 한국 미디어
 
