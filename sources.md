@@ -13,8 +13,8 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-09-01 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-08-24 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-04 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-03 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-06 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-06 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-09-06 |
 
 ## 반도체 / 기술 미디어
@@ -24,8 +24,8 @@
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-06 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-06 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-06 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-04 |
-| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-02 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-06 |
+| WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-06 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-06 |
 | EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-09-04 |
 | Focus Taiwan | https://focustaiwan.tw | 2026-08-30 | 2026-09-06 |
@@ -34,8 +34,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-08-25 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-08-30 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-06 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-09-06 |
 | Blocks & Files | https://www.blocksandfiles.com | 2026-08-29 | 2026-08-29 |
 
 ## 일반 기술 미디어
