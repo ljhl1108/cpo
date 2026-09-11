@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-10
+마지막 업데이트: 2026-09-11
 
 ---
 
@@ -21,9 +21,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-07 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-07 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-10 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-11 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-11 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-11 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-06 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-06 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-06 |
@@ -34,7 +34,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-06 |
+| DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-11 |
 | SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-09-07 |
 | Blocks & Files | https://www.blocksandfiles.com | 2026-08-29 | 2026-08-29 |
 
@@ -42,7 +42,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-10 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-11 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-07 |
 | TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-09-09 |
 | The Register | https://www.theregister.com | 2026-08-29 | 2026-08-29 |
@@ -53,7 +53,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-02 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-29 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-10 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-11 |
 
 ## 한국 미디어
 
@@ -67,5 +67,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
-| Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-09-10 | LG이노텍 KPCA Show 2026 기사 등 한국 기업 CPO/AI 기술 소식 발굴 |
+| Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-09-11 | LG이노텍 KPCA Show 2026 기사 등 한국 기업 CPO/AI 기술 소식 발굴 |
 
