@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-13
+마지막 업데이트: 2026-09-14
 
 ---
 
@@ -23,7 +23,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-12 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-12 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-13 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-14 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-06 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-06 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-13 |
@@ -68,4 +68,6 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|-----------|
+| StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-09-14 | SK하이닉스 CPO 로드맵 Nature Electronics 기사 발굴 |
+| Counterpoint Research | https://counterpointresearch.com | 2026-09-14 | 2026-09-14 | FCC 중국 광트랜시버 금지 및 NVIDIA CPO 로드맵 분석 발굴 |
 
