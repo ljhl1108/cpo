@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-15
+마지막 업데이트: 2026-09-16
 
 ---
 
@@ -13,20 +13,20 @@
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-09-01 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-13 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-15 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-09 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-16 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-16 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-09-06 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-12 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-16 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-12 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-15 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-15 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-16 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-16 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-06 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-13 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-16 |
 | EE Times Asia | https://www.eetasia.com | 2026-08-04 | 2026-09-04 |
 | Focus Taiwan | https://focustaiwan.tw | 2026-08-30 | 2026-09-07 |
 
@@ -35,14 +35,14 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-11 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-09-15 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-09-16 |
 | Blocks & Files | https://www.blocksandfiles.com | 2026-08-29 | 2026-08-29 |
 
 ## 일반 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-15 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-16 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-07 |
 | TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-09-13 |
 | The Register | https://www.theregister.com | 2026-08-29 | 2026-08-29 |
@@ -51,9 +51,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-02 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-16 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-29 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-15 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-16 |
 
 ## 한국 미디어
 
@@ -70,4 +70,4 @@
 |------|-----|--------|------------|-----------|
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-09-14 | SK하이닉스 CPO 로드맵 Nature Electronics 기사 발굴 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-09-14 | 2026-09-14 | FCC 중국 광트랜시버 금지 및 NVIDIA CPO 로드맵 분석 발굴 |
-
+| The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-16 | CPO HVM 테스팅 기사 발굴 (SENKO/Advantest/VIAVI 협력 보도) |
