@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-19
+마지막 업데이트: 2026-09-20
 
 ---
 
@@ -12,8 +12,8 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-09-01 |
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-19 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-18 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-20 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-20 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-19 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-09-06 |
 | The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-19 |
@@ -25,7 +25,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-17 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-19 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-19 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-20 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-17 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-19 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-17 |
@@ -39,25 +39,24 @@
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-11 |
 | SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-09-17 |
-| Blocks & Files | https://www.blocksandfiles.com | 2026-08-29 | 2026-08-29 |
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-09-19 |
 
 ## 일반 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-19 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-20 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-07 |
 | TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-09-13 |
-| The Register | https://www.theregister.com | 2026-08-29 | 2026-09-17 |
+| The Register | https://www.theregister.com | 2026-08-29 | 2026-09-20 |
 
 ## 기업 공식 채널
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-16 |
-| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-08-29 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-19 |
+| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-09-20 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-20 |
 
 ## 한국 미디어
 
@@ -72,3 +71,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
+| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-09-20 | ECOC 2026 AI factory scale 패널 커버리지 발견 |
+
