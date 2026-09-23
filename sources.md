@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-22
+마지막 업데이트: 2026-09-23
 
 ---
 
@@ -11,9 +11,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Light Reading | https://www.lightreading.com | 2026-06-01 | 2026-09-01 |
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-22 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-22 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-23 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-19 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-09-06 |
 | The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-19 |
@@ -45,8 +44,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-22 |
-| 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-07 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-23 |
+| 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-23 |
 | TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-09-13 |
 | The Register | https://www.theregister.com | 2026-08-29 | 2026-09-22 |
 
@@ -54,9 +53,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-16 |
-| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-09-21 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-22 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-23 |
+| BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-09-23 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-23 |
 
 ## 한국 미디어
 
@@ -72,4 +71,4 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
 | Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-09-22 | ECOC 2026 AI factory scale 패널 커버리지 발견 |
-
+| TechNode | https://technode.com | 2026-09-23 | 2026-09-23 | 실리콘 포토닉스 AI 데이터센터 심층 보도 발견 (ECOC 2026) |
