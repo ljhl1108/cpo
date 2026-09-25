@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-09-24
+마지막 업데이트: 2026-09-25
 
 ---
 
@@ -11,20 +11,20 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-24 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-24 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-25 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-09-25 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-19 |
 | Cignal AI | https://cignal.ai | 2026-08-06 | 2026-09-06 |
 | The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-19 |
-| TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-21 |
+| TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-25 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-17 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-25 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-09-19 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-24 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-25 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-24 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-22 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-17 |
@@ -44,7 +44,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-24 |
+| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-09-25 |
 | 247wallst | https://247wallst.com | 2026-06-16 | 2026-09-23 |
 | TechTimes | https://www.techtimes.com | 2026-07-13 | 2026-09-13 |
 | The Register | https://www.theregister.com | 2026-08-29 | 2026-09-22 |
@@ -55,7 +55,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-23 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-09-23 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-24 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-25 |
 
 ## 한국 미디어
 
@@ -72,3 +72,4 @@
 |------|-----|--------|------------|----------|
 | Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-09-22 | ECOC 2026 AI factory scale 패널 커버리지 발견 |
 | TechNode | https://technode.com | 2026-09-23 | 2026-09-23 | 실리콘 포토닉스 AI 데이터센터 심층 보도 발견 (ECOC 2026) |
+| IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-09-25 | AI 인프라 $10조 분석 등 광통신 심층 기술 보도 발견 (Sep 24 2026 분석 기사) |
