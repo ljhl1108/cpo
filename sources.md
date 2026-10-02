@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-01
+마지막 업데이트: 2026-10-02
 
 ---
 
@@ -11,24 +11,24 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-09-30 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-02 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-01 |
-| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-09-30 |
+| LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-02 |
 | The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-19 |
 | TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-28 |
-| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-01 |
+| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-02 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-09-25 |
 
 ## 반도체 / 기술 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-09-30 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-01 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-02 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-02 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-30 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-09-28 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-22 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-09-17 |
+| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-02 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-09-14 | 2026-09-22 |
 
 ## 데이터센터 / 네트워크
@@ -36,8 +36,8 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | DataCenterDynamics | https://www.datacenterdynamics.com | 2026-06-01 | 2026-09-11 |
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-01 |
-| StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-09-21 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-02 |
+| StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-02 |
 
 ## 일반 기술 미디어
 
@@ -55,7 +55,7 @@
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-09-28 |
 | BusinessWire | https://www.businesswire.com | 2026-06-10 | 2026-09-23 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-09-30 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-02 |
 
 ## 한국 미디어
 
@@ -71,4 +71,6 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
 | Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-01 | CPO/AI GPU fabric 광통신 분석 전문 리서치 블로그, 오늘 1.6T 트랜시버 품질 기사 발견 |
+| PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-02 | 포토닉스/광인터커넥트 전문지, OIF AI 광인터커넥트 표준화 및 ECOC 2026 분석 기사 발견 |
+| RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-02 | Coherent PhotonLink AI 데이터센터 광인터커넥트 전문 기사 발견 (2026-09-29) |
 
