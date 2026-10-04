@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-03
+마지막 업데이트: 2026-10-04
 
 ---
 
@@ -11,15 +11,15 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-03 |
+| Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-04 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-01 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-02 |
 | The Fast Mode | https://www.thefastmode.com | 2026-09-16 | 2026-09-19 |
 | TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-28 |
-| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-03 |
+| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-04 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-09-25 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-01 |
-| PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-02 |
+| PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-04 |
 
 ## 반도체 / 기술 미디어
 
@@ -27,8 +27,8 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-03 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-03 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-09-30 |
-| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-03 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-04 |
+| HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-04 |
 | WCCFTech | https://wccftech.com | 2026-06-10 | 2026-09-22 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-02 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-09-14 | 2026-09-22 |
@@ -37,9 +37,9 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-03 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-04 |
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-02 |
-| RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-03 |
+| RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-04 |
 
 ## 일반 기술 미디어
 
@@ -64,7 +64,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-09-30 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-01 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-04 |
 | Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-10-03 |
 
 ---
