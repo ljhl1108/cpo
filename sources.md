@@ -16,7 +16,7 @@
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-06 |
 | TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-28 |
 | Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-06 |
-| IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-09-25 |
+| IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-14 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-09 |
 | PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-10 |
 
@@ -68,3 +68,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
 | SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-11 | OCP/CPO/AMD AI 인터커넥트 기사 발굴 |
+| Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-14 | Lightmatter Guide DR CPO 기사 발굴 |
+| Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-14 | OCP Summit CPO 분석 기사 발굴 |
+| Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-14 | NVIDIA CPO 로드맵 심층 분석 발굴 |
+
