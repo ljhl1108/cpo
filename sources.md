@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-15
+마지막 업데이트: 2026-10-16
 
 ---
 
@@ -12,7 +12,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-10 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-14 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-16 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-06 |
 | TSPA Semiconductor | https://tspasemiconductor.substack.com | 2026-09-17 | 2026-09-28 |
 | Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-06 |
@@ -25,7 +25,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-15 |
-| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-15 |
+| TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-16 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-10 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-15 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-11 |
@@ -34,8 +34,8 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-04 |
-| StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-15 |
+| SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-16 |
+| StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-16 |
 | RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-05 |
 
 ## 일반 기술 미디어
@@ -49,14 +49,14 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-10-15 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-15 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-16 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Seoul Economic Daily | https://en.sedaily.com | 2026-06-10 | 2026-09-30 |
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-15 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-16 |
 | Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-10-05 |
 
 ---
@@ -65,7 +65,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
 | SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-11 | OCP/CPO/AMD AI 인터커넥트 기사 발굴 |
-| Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-14 | Lightmatter Guide DR CPO 기사 발굴 |
-| Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-14 | OCP Summit CPO 분석 기사 발굴 |
-| Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-14 | NVIDIA CPO 로드맵 심층 분석 발굴 |
-
+| Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-16 | Lightmatter Guide DR CPO 기사 발굴 |
+| Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-16 | OCP Summit CPO 분석 기사 발굴 |
+| Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-16 | NVIDIA CPO 로드맵 심층 분석 발굴 |
+| Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-10-16 | AI 광인터커넥트 스타트업 기사 발굴 |
