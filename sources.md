@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-25
+마지막 업데이트: 2026-10-26
 
 ---
 
@@ -26,7 +26,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-24 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-25 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-25 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-26 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-24 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-11 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-25 |
@@ -38,7 +38,7 @@
 | SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-24 |
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-21 |
 | RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-05 |
-| SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-25 |
+| SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-26 |
 | Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-21 |
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-10-16 |
 | StorageNewsletter | https://www.storagenewsletter.com | 2026-10-20 | 2026-10-25 |
@@ -49,7 +49,7 @@
 |------|-----|--------|------------|
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-10-12 |
 | Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-25 |
-| Xenospectrum | https://xenospectrum.com | 2026-10-23 | 2026-10-23 |
+| Xenospectrum | https://xenospectrum.com | 2026-10-23 | 2026-10-26 |
 
 ## 기업 공식 채널
 
@@ -62,7 +62,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-25 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-26 |
 | Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-10-05 |
 
 ---
