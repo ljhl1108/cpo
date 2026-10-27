@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-26
+마지막 업데이트: 2026-10-27
 
 ---
 
@@ -12,10 +12,10 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-18 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-24 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-27 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-24 |
 | Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-06 |
-| IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-17 |
+| IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-09 |
 | PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-18 |
 | Compound Semiconductor | https://compoundsemiconductor.net | 2026-10-21 | 2026-10-24 |
@@ -37,7 +37,6 @@
 |------|-----|--------|------------|
 | SDxCentral | https://www.sdxcentral.com | 2026-06-26 | 2026-10-24 |
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-21 |
-| RCR Wireless | https://rcrwireless.com | 2026-10-02 | 2026-10-05 |
 | SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-26 |
 | Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-21 |
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-10-16 |
@@ -49,21 +48,20 @@
 |------|-----|--------|------------|
 | StockTitan | https://stocktitan.net | 2026-06-08 | 2026-10-12 |
 | Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-25 |
-| Xenospectrum | https://xenospectrum.com | 2026-10-23 | 2026-10-26 |
+| Xenospectrum | https://xenospectrum.com | 2026-10-23 | 2026-10-27 |
 
 ## 기업 공식 채널
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-10-25 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-24 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-27 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | The Elec | https://www.thelec.net | 2026-06-18 | 2026-10-26 |
-| Korea Times | https://www.koreatimes.co.kr | 2026-09-09 | 2026-10-05 |
 
 ---
 
