@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-27
+마지막 업데이트: 2026-10-28
 
 ---
 
@@ -14,7 +14,6 @@
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-18 |
 | Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-27 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-24 |
-| Lightwave Online | https://www.lightwaveonline.com | 2026-09-20 | 2026-10-06 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
 | Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-09 |
 | PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-18 |
@@ -24,7 +23,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-24 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-28 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-25 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-26 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-24 |
@@ -68,5 +67,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
-| Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-25 | OCP 2026 CPO/광통신 심층 분석 발견 |
-
+| Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 | OCP 2026 CPO/광통신 심층 분석 발견 |
+| The Quantum Insider | https://thequantuminsider.com | 2026-10-28 | 2026-10-28 | PsiQuantum OCS 기사 발견 - 양자/포토닉스 및 AI 인프라 광통신 전문 |
