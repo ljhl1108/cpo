@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-28
+마지막 업데이트: 2026-10-29
 
 ---
 
@@ -25,7 +25,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-28 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-25 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-26 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-29 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-24 |
 | Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-11 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-25 |
