@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-10-30
+마지막 업데이트: 2026-10-31
 
 ---
 
@@ -12,12 +12,12 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Semiconductor Today | https://semiconductor-today.com | 2026-06-08 | 2026-10-18 |
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-27 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-10-31 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-24 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
-| Hyperframe Research | https://hyperframeresearch.com | 2026-10-01 | 2026-10-09 |
 | PIC Magazine | https://picmagazine.net | 2026-10-02 | 2026-10-18 |
 | Compound Semiconductor | https://compoundsemiconductor.net | 2026-10-21 | 2026-10-24 |
+| The Quantum Insider | https://thequantuminsider.com | 2026-10-28 | 2026-10-30 |
 
 ## 반도체 / 기술 미디어
 
@@ -40,6 +40,7 @@
 | Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-21 |
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-10-16 |
 | StorageNewsletter | https://www.storagenewsletter.com | 2026-10-20 | 2026-10-25 |
+| Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 |
 
 ## 일반 기술 미디어
 
@@ -67,5 +68,3 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
-| Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 | OCP 2026 CPO/광통신 심층 분석 발견 |
-| The Quantum Insider | https://thequantuminsider.com | 2026-10-28 | 2026-10-30 | PsiQuantum OCS 기사 발견 - 양자/포토닉스 및 AI 인프라 광통신 전문 |
