@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-01
+마지막 업데이트: 2026-11-02
 
 ---
 
@@ -27,7 +27,6 @@
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-25 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-10-30 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-24 |
-| Tom's Hardware | https://www.tomshardware.com | 2026-07-23 | 2026-10-11 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-25 |
 
 ## 데이터센터 / 네트워크
@@ -38,7 +37,7 @@
 | StorageReview | https://www.storagereview.com | 2026-09-14 | 2026-10-21 |
 | SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-26 |
 | Data Center Dynamics | https://www.datacenterdynamics.com | 2026-10-14 | 2026-10-21 |
-| Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-10-16 |
+| Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-11-02 |
 | StorageNewsletter | https://www.storagenewsletter.com | 2026-10-20 | 2026-10-25 |
 | Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 |
 
