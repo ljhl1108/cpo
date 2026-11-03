@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-02
+마지막 업데이트: 2026-11-03
 
 ---
 
@@ -45,8 +45,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| StockTitan | https://stocktitan.net | 2026-06-08 | 2026-10-12 |
-| Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-10-25 |
+| Futurum Group | https://futurumgroup.com | 2026-10-14 | 2026-11-03 |
 | Xenospectrum | https://xenospectrum.com | 2026-10-23 | 2026-10-27 |
 
 ## 기업 공식 채널
@@ -54,7 +53,7 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-10-25 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-10-27 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-11-03 |
 
 ## 한국 미디어
 
