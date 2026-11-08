@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-07
+마지막 업데이트: 2026-11-08
 
 ---
 
@@ -23,11 +23,11 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-10-28 |
+| Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-11-08 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-10-25 |
 | Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-11-06 |
 | HPCwire | https://www.hpcwire.com | 2026-06-10 | 2026-10-24 |
-| Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-10-25 |
+| Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-11-08 |
 
 ## 데이터센터 / 네트워크
 
@@ -66,3 +66,5 @@
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
+| 456X Research | https://404kresearch.substack.com | 2026-11-08 | 2026-11-08 | AI 데이터센터 하이퍼스케일러 광부품 수급·LTA 분석 전문 일간 뉴스레터, 고품질 1차 소스 |
+
