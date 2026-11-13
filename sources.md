@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-12
+마지막 업데이트: 2026-11-14
 
 ---
 
@@ -11,7 +11,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-11-12 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-11-14 |
 | LEDinside | https://www.ledinside.com | 2026-07-17 | 2026-10-24 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
 | Compound Semiconductor | https://compoundsemiconductor.net | 2026-10-21 | 2026-10-24 |
@@ -48,7 +48,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-11-12 |
+| PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-11-14 |
 | GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-11-06 |
 
 ## 한국 미디어
