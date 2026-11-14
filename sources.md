@@ -16,6 +16,7 @@
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
 | Compound Semiconductor | https://compoundsemiconductor.net | 2026-10-21 | 2026-10-24 |
 | The Quantum Insider | https://thequantuminsider.com | 2026-10-28 | 2026-10-30 |
+| 456X Research | https://404kresearch.substack.com | 2026-11-08 | 2026-11-14 |
 
 ## 반도체 / 기술 미디어
 
@@ -55,12 +56,11 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-11-12 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-11-14 |
 
 ---
 
 ## 신규 발굴 출처 (루틴 자동 추가)
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
-| 456X Research | https://404kresearch.substack.com | 2026-11-08 | 2026-11-09 | AI 데이터센터 하이퍼스케일러 광부품 수급·LTA 분석 전문 일간 뉴스레터, 고품질 1차 소스 |
 
