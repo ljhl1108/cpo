@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-15
+마지막 업데이트: 2026-11-16
 
 ---
 
@@ -11,7 +11,7 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-11-15 |
+| Converge Digest | https://convergedigest.com | 2026-06-16 | 2026-11-16 |
 | IEEE ComSoc Tech Blog | https://techblog.comsoc.org | 2026-09-25 | 2026-10-27 |
 | The Quantum Insider | https://thequantuminsider.com | 2026-10-28 | 2026-10-30 |
 | 456X Research | https://404kresearch.substack.com | 2026-11-08 | 2026-11-14 |
@@ -22,7 +22,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-11-15 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-11-15 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-11-15 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-11-16 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-11-08 |
 
 ## 데이터센터 / 네트워크
@@ -31,7 +31,6 @@
 |------|-----|--------|------------|
 | SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-26 |
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-11-15 |
-| StorageNewsletter | https://www.storagenewsletter.com | 2026-10-20 | 2026-10-25 |
 | Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 |
 
 ## 일반 기술 미디어
@@ -60,3 +59,5 @@
 | 출처 | URL | 추가일 | 마지막 기사 | 발굴 경위 |
 |------|-----|--------|------------|----------|
 | Tom's Hardware | https://www.tomshardware.com | 2026-11-15 | 2026-11-15 | CPO/광통신 분석 기사 반복 발견 |
+| HPCwire | https://www.hpcwire.com | 2026-11-16 | 2026-11-16 | SC26에서 포토닉 메모리 어플라이언스 등 CPO 주요 기사 반복 발견 |
+
