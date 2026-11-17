@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-16
+마지막 업데이트: 2026-11-17
 
 ---
 
@@ -29,7 +29,6 @@
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| SimpleTechTrend | https://www.simpletechtrend.com | 2026-10-11 | 2026-10-26 |
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-11-15 |
 | Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 |
 
@@ -60,4 +59,6 @@
 |------|-----|--------|------------|----------|
 | Tom's Hardware | https://www.tomshardware.com | 2026-11-15 | 2026-11-15 | CPO/광통신 분석 기사 반복 발견 |
 | HPCwire | https://www.hpcwire.com | 2026-11-16 | 2026-11-16 | SC26에서 포토닉 메모리 어플라이언스 등 CPO 주요 기사 반복 발견 |
+| SDxCentral | https://www.sdxcentral.com | 2026-11-17 | 2026-11-17 | AI 인프라·네트워킹 전문 미디어, Arista R4·CPO·광통신 기사 꾸준히 발견 |
+| SiliconANGLE | https://siliconangle.com | 2026-11-17 | 2026-11-17 | AI 인프라·클라우드 전문 미디어, Arista SC26 분산 추론 등 CPO 관련 기사 발견 |
 
