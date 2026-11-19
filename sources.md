@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-18
+마지막 업데이트: 2026-11-19
 
 ---
 
@@ -29,7 +29,6 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | Fierce Network | https://www.fierce-network.com | 2026-10-16 | 2026-11-15 |
-| Dell'Oro Group | https://www.delloro.com | 2026-10-25 | 2026-10-28 |
 
 ## 일반 기술 미디어
 
@@ -42,13 +41,13 @@
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
 | PR Newswire | https://www.prnewswire.com | 2026-06-10 | 2026-11-15 |
-| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-11-15 |
+| GlobeNewswire | https://www.globenewswire.com | 2026-06-26 | 2026-11-19 |
 
 ## 한국 미디어
 
 | 출처 | URL | 추가일 | 마지막 기사 |
 |------|-----|--------|------------|
-| The Elec | https://www.thelec.net | 2026-06-18 | 2026-11-15 |
+| The Elec | https://www.thelec.net | 2026-06-18 | 2026-11-19 |
 
 ---
 
@@ -60,5 +59,5 @@
 | SDxCentral | https://www.sdxcentral.com | 2026-11-17 | 2026-11-17 | AI 인프라·네트워킹 전문 미디어, Arista R4·CPO·광통신 기사 꾸준히 발견 |
 | SiliconANGLE | https://siliconangle.com | 2026-11-17 | 2026-11-17 | AI 인프라·클라우드 전문 미디어, Arista SC26 분산 추론 등 CPO 관련 기사 발견 |
 | Supercomputing News | https://www.supercomputing.news | 2026-11-18 | 2026-11-18 | SC26·HPC 콘퍼런스 전문 취재, CPO 병목·TSMC 발언 등 단독 보도 |
-| 24/7 Wall St. | https://247wallst.com | 2026-11-18 | 2026-11-18 | 광학·반도체 주식 뉴스 전문, CPO 관련 기업 주가 동향 집중 보도 |
+| 24/7 Wall St. | https://247wallst.com | 2026-11-18 | 2026-11-19 | 광학·반도체 주식 뉴스 전문, CPO 관련 기업 주가 동향 집중 보도 |
 
