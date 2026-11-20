@@ -3,7 +3,7 @@
 > 이 문서는 루틴에 의해 자동으로 업데이트됩니다.
 > 새로운 출처가 발견되면 자동으로 추가되고, 21일 이상 기사가 없으면 자동으로 제거됩니다.
 
-마지막 업데이트: 2026-11-19
+마지막 업데이트: 2026-11-20
 
 ---
 
@@ -21,7 +21,7 @@
 |------|-----|--------|------------|
 | Semiconductor Engineering | https://semiengineering.com | 2026-06-01 | 2026-11-15 |
 | TrendForce | https://www.trendforce.com | 2026-06-10 | 2026-11-15 |
-| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-11-16 |
+| Digitimes | https://www.digitimes.com | 2026-06-10 | 2026-11-20 |
 | Counterpoint Research | https://counterpointresearch.com | 2026-10-14 | 2026-11-08 |
 
 ## 데이터센터 / 네트워크
